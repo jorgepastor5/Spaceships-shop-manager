@@ -1,0 +1,3 @@
+12345678A;Planeta Tierra
+87654321A;Planeta Tierra
+05961375M;Planeta Tierra

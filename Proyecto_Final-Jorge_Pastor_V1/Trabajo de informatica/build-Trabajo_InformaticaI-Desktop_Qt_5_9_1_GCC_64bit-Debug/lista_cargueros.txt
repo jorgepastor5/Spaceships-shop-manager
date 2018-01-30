@@ -1,0 +1,2 @@
+0987654321;R1234ABC;Compresor traza;12;13;45;Si;Si
+05961375M;R5678ABC;Compresor traza;234.4;27;55;Si;Si

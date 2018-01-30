@@ -1,0 +1,2 @@
+12345678A;E1234ABC;Compresor traza;123.5;12;32;4;Si
+05961375M;E5678ABC;Motor curvatura;12;12;34;5;Si

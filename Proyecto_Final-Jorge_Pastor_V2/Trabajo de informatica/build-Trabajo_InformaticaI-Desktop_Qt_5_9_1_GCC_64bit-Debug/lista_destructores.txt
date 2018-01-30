@@ -1,0 +1,2 @@
+1234567890;D1234ABC;Motor iónico;234;21;Misiles termonucleares;Rayos laser;Rayos laser
+05961375M;D5678ABC;Velas solares;12.56;9;PEM;Rayos laser;Misiles termonucleares
